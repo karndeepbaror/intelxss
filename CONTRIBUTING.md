@@ -6,7 +6,7 @@
 
 **Share Your XSS Discoveries. Become a Recognized Contributor.**
 
-[![Get Listed As Contributor](https://img.shields.io/badge/🌐_Visit_Website-intelxss.in_(Click_Here)-00d4aa?style=for-the-badge)](cryptonicarea.wuaze.com/intelxss)
+[![Get Listed As Contributor](https://img.shields.io/badge/🌐_Visit_Website-intelxss.in_(Click_Here)-00d4aa?style=for-the-badge)](https://cryptonicarea.wuaze.com/intelxss)
 
 </div>
 

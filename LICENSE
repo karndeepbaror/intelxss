@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 KARNDEEP BAROR
+Copyright (c) 2026 IntelXSS Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+ETHICAL USE DISCLAIMER
+
+This software is intended for educational and ethical security research purposes only.
+Users must comply with all applicable laws and regulations in their jurisdiction.
+
+Authorized uses include:
+- Penetration testing with proper authorization
+- Educational security research and training
+- Bug bounty programs
+- Defensive security measures development
+
+Prohibited uses include:
+- Unauthorized access to systems or applications
+- Malicious exploitation of vulnerabilities
+- Any illegal activities
+
+The authors and contributors disclaim any responsibility for misuse of this software.
+Users are solely responsible for their actions and must ensure they have proper
+authorization before testing any systems or applications.

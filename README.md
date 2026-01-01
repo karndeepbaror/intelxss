@@ -62,7 +62,7 @@
 ---
 
 ### 🌐 **Instant Access**
-Visit [intelxss.in](https://karndeepbaror.githuh.io/intelxss) and start exploring immediately. No installation required.
+Visit [cryptonicarea.wuaze.com/intelxss](https://cryptonicarea.wuaze.com/intelxss) and start exploring immediately. No installation required.
 
 ---
 
@@ -117,7 +117,7 @@ Licensed under the `MIT License` - empowering open security research while maint
 
 *If XSS helped you once, IntelXSS is here to help you every time.* 🛡️
 
-[![Visit IntelXSS](https://img.shields.io/badge/Visit-karndeepbaror.github.io/intelxss-00d4aa?style=for-the-badge)](https://xssnow.in)
-[![Star on GitHub](https://img.shields.io/github/stars/karndeepbaror/intelxss?style=for-the-badge)](https://github.com/karndeepbaror/intelxss)
+[![Visit IntelXSS](https://img.shields.io/badge/Visit-cryptonicarea.wuaze.com/intelxss-00d4aa?style=for-the-badge)](https://cryptonicarea.wuaze.com/intelxss/)
+[![Star on GitHub](https://img.shields.io/github/stars/karndeepbaror/IntelXSS?style=for-the-badge)](https://github.com/karndeepbaror/IntelXSS)
 
 </div>
